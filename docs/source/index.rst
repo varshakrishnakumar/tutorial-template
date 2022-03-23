@@ -1,17 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+Differential-Drive Robot in Artificial Gravity
+==================================
+Designing and implementing a Differential-Drive Robot
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+*Version March 2022*
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Abstract
+-----------------
+The objective of this exploration is to design, implement, and testing a controller that enables a differential-drive robot to move quickly around the inside of a rotating space station under artificial gravity. This was primarly tested in a Python Jupyter Notebook environment.
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------

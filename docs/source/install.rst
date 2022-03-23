@@ -1,10 +1,6 @@
 Install
 =====
 
-.. _installation:
-
-Installation
-------------
 The main file, *RunSegbot.ipynb*, runs on an *ae353* anaconda environment. The instructions given below will set up the user's system for project compilation.
 
 .. code-block:: console
