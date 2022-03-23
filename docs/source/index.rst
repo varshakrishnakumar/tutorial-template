@@ -18,5 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   install
+   classes
+   methods
+   results

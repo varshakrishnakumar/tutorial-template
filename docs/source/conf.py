@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Differential-Drive Robot in Artificial Gravity'
+copyright = '2022, Varsha Krishnakumar'
+author = 'Varsha Krishnakumar'
 
 release = '0.1'
 version = '0.1.0'

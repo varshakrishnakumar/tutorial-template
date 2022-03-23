@@ -1,7 +1,8 @@
-API
+Classes
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   Controller
+   Simulator
